@@ -13,8 +13,8 @@ function divide (a, b) {
 function inc (n) {
   parseInt (n, 10)
 }
-function dec(n) {
-  return n-=
+function dec (n) {
+  parseFloat (n)
 }
 function makeInt(n){
   return parseInt (n, 10)
